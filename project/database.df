@@ -1,0 +1,3 @@
+FROM postgres
+ENV POSTGRES_DB=homeloan
+ENV POSTGRES_PASSWORD=homeloan
